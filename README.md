@@ -1,3 +1,53 @@
+# TextUtils
+
+TextUtils is a web application that provides a user-friendly interface to modify text easily. With TextUtils, you can capitalize text, convert it to lowercase, copy and paste text, remove extra spaces, and even remove specific text.
+
+## Features
+
+- **Capitalization:** Convert text to uppercase or lowercase with a single click.
+- **Copy and Paste:** Easily copy text from the input field and paste it wherever you need it.
+- **Text Removal:** Remove unwanted text or specific phrases from your input.
+- **Extra Spaces Removal:** Get rid of unnecessary extra spaces within your text.
+
+## Technologies Used
+
+- React.Js
+- CSS
+- JavaScript
+
+## How to Use
+
+1. Open the TextUtils website in your web browser.
+2. Enter or paste the text you want to modify into the input field.
+3. Select the desired modification option from the available buttons:
+   - **Capitalize:** Convert the text to uppercase.
+   - **Small Case:** Convert the text to lowercase.
+   - **Copy:** Copy the modified text to your clipboard.
+   - **Paste:** Paste text from your clipboard into the input field.
+   - **Remove Extra Spaces:** Remove extra spaces within the text.
+   - **Remove Text:** Remove whole text from the input.
+4. The modified text will be displayed in the output field.
+5. You can copy the modified text from the output field or perform further modifications as needed.
+
+## Example
+
+Let's say you have the following text entered in the input field: "hello world."
+
+- Selecting the **Capitalize** option will modify the text to: "HELLO WORLD."
+- Choosing **Small Case** will modify the text to: "hello world."
+- Clicking on **Copy** will copy the modified text to your clipboard.
+- Selecting **Remove Extra Spaces** will remove any extra spaces within the text.
+- Using **Remove Text** remove the whole input.
+
+## Contributions
+
+Contributions to the TextUtils project are welcome. If you encounter any issues, have ideas for new features, or would like to improve existing functionality, feel free to submit a pull request.
+
+## License
+
+TextUtils is an open-source project distributed under the [MIT License](LICENSE).
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
